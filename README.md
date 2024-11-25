@@ -1,4 +1,4 @@
-### (Please see another repository 'MLEtools' by our organization, this one is not using anymore)  
+### (Please see another repository 'toolsMLE' by our organization, this one and the 'MLEtools' (the name has been used) is not using anymore)  
 
 Info  
 Team member: Bruce Liu, Sze Wei Wang, Yanyao Gu, Hanlong Chen. <br>
